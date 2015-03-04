@@ -1,4 +1,5 @@
-White_House_Speeches:
+
+#White_House_Speeches
 
 This is the database directory accomplished after running the package OWS from the GitHub repository: https://github.com/jmausolf/OWS.git
 
